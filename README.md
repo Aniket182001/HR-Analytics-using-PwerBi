@@ -17,10 +17,13 @@ Welcome to my Data Dashboard Repository! 📊 Interactive data dashboards in Tab
 
 <h3 align="center">Preview</h3>
 
+![Page 1](https://raw.githubusercontent.com/Aniket182001/HR-Analytics-using-PwerBi/main/Final_page-0001.jpg)
 
+![Page 2](https://raw.githubusercontent.com/Aniket182001/HR-Analytics-using-PwerBi/main/Final_page-0002.jpg)
 
+![Page 3](https://raw.githubusercontent.com/Aniket182001/HR-Analytics-using-PwerBi/main/Final_page-0003.jpg)
 
-
+![Page 4](https://raw.githubusercontent.com/Aniket182001/HR-Analytics-using-PwerBi/main/Final_page-0004.jpg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
